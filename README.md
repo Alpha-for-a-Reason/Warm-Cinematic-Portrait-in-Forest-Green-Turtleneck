@@ -79,3 +79,8 @@
 ![Image](https://github.com/user-attachments/assets/a559fc7e-1576-4efc-a0e7-bc4f02400be8)
 
 ![Image](https://github.com/user-attachments/assets/f2789fd2-0ac0-4c06-9cd7-41634841b429)
+
+
+| ***Credit:*** |
+| :--- |
+| This text is contained within a single-cell table.<br>It's a good method for a clean, bordered look. |
