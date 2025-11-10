@@ -66,12 +66,9 @@
   }
 }
 ```
-##
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-***Credit: [Nilendu Bagchi](https://www.instagram.com/nilendu_bagchi)***
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+| 🅲🆁🅴🅳🅸🆃: |
+| :--- |
+| ɴɪʟᴇɴᴅᴜ ʙᴀɢᴄʜɪ <br> [![Follow on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nilendu_bagchi) |
 
 ## 📌 PREVIEW
 ![Image](https://github.com/user-attachments/assets/38f86991-83bb-4bfe-bf16-413b85e2d38c)
@@ -81,6 +78,3 @@
 ![Image](https://github.com/user-attachments/assets/f2789fd2-0ac0-4c06-9cd7-41634841b429)
 
 
-| 🅲🆁🅴🅳🅸🆃: |
-| :--- |
-| ɴɪʟᴇɴᴅᴜ ʙᴀɢᴄʜɪ <br>It's a good method for a clean, bordered look. |
